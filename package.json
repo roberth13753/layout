@@ -1,6 +1,6 @@
 {
   "name": "layout",
-  "version": "0.1.23",
+  "version": "0.1.24",
   "description": "Responsive Layout Builder is a web tool that lets developers quickly create and test page layouts. You can split the screen into sections, adjust them, and instantly see the generated code in JSX + Tailwind or HTML + CSS.",
   "main": "src/index.ts",
   "scripts": {
